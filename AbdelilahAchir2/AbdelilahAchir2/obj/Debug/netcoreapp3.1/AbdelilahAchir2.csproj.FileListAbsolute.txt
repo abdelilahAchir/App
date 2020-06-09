@@ -1,0 +1,13 @@
+C:\Users\Gäst-användare\source\repos\AbdelilahAchir2\AbdelilahAchir2\bin\Debug\netcoreapp3.1\AbdelilahAchir2.exe
+C:\Users\Gäst-användare\source\repos\AbdelilahAchir2\AbdelilahAchir2\bin\Debug\netcoreapp3.1\AbdelilahAchir2.deps.json
+C:\Users\Gäst-användare\source\repos\AbdelilahAchir2\AbdelilahAchir2\bin\Debug\netcoreapp3.1\AbdelilahAchir2.runtimeconfig.json
+C:\Users\Gäst-användare\source\repos\AbdelilahAchir2\AbdelilahAchir2\bin\Debug\netcoreapp3.1\AbdelilahAchir2.runtimeconfig.dev.json
+C:\Users\Gäst-användare\source\repos\AbdelilahAchir2\AbdelilahAchir2\bin\Debug\netcoreapp3.1\AbdelilahAchir2.dll
+C:\Users\Gäst-användare\source\repos\AbdelilahAchir2\AbdelilahAchir2\bin\Debug\netcoreapp3.1\AbdelilahAchir2.pdb
+C:\Users\Gäst-användare\source\repos\AbdelilahAchir2\AbdelilahAchir2\obj\Debug\netcoreapp3.1\AbdelilahAchir2.csprojAssemblyReference.cache
+C:\Users\Gäst-användare\source\repos\AbdelilahAchir2\AbdelilahAchir2\obj\Debug\netcoreapp3.1\AbdelilahAchir2.csproj.CoreCompileInputs.cache
+C:\Users\Gäst-användare\source\repos\AbdelilahAchir2\AbdelilahAchir2\obj\Debug\netcoreapp3.1\AbdelilahAchir2.AssemblyInfoInputs.cache
+C:\Users\Gäst-användare\source\repos\AbdelilahAchir2\AbdelilahAchir2\obj\Debug\netcoreapp3.1\AbdelilahAchir2.AssemblyInfo.cs
+C:\Users\Gäst-användare\source\repos\AbdelilahAchir2\AbdelilahAchir2\obj\Debug\netcoreapp3.1\AbdelilahAchir2.dll
+C:\Users\Gäst-användare\source\repos\AbdelilahAchir2\AbdelilahAchir2\obj\Debug\netcoreapp3.1\AbdelilahAchir2.pdb
+C:\Users\Gäst-användare\source\repos\AbdelilahAchir2\AbdelilahAchir2\obj\Debug\netcoreapp3.1\AbdelilahAchir2.genruntimeconfig.cache
